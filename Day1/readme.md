@@ -15,4 +15,4 @@ Note:
 - Currently the working version assumes that within each group the individuals are buying lunches for each other
 - In reality would have wanted the code to give me unique directional pairings instead (to work on for future updates)
 
-![santa_magic gif](https://github.com/qygoh/100DaysOfCoding/blob/main/Day1/santa_magic_gif.mp4)
+![santa_magic gif](https://media.giphy.com/media/TGHpCVPxqOJzqTwYui/giphy.gif)
