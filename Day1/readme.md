@@ -3,7 +3,7 @@
 
 Main aim is to explore the usage of the input function in Python. 
 
-**Use Case:** Decided to build my own Christmas Santa generator! Inspired by my department's Christmas Food Santa Exchange.
+**Use Case:** Decided to build my own Christmas Santa generator! Inspired by my department's Christmas Food Santa Exchange where everyone is supposed to order food for one other individual. 
 
 How does this generator work: 
 1. Key in the number of participants
