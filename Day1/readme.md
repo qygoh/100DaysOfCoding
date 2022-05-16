@@ -10,3 +10,7 @@ How does this generator work:
 2. Proceed to input the names of each participant
 3. Generator will automatically generate the pairings of participants without any repeated pairings! 
 
+Note: 
+- If there is an odd number of participants, unfortunately there will be a group of 3. 
+- Currently the working version assumes that within each group the individuals are buying lunches for each other
+- In reality would have wanted the code to give me unique directional pairings instead (to work on for future updates)
