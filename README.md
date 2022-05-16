@@ -5,4 +5,5 @@ Starting my [100 days of Python Course](https://www.udemy.com/share/103IHM3@rzEv
 Cheers to an exicting 100 days ahead! 
 
 Date started: 16/05/2022
+
 Date completed: To be confirmed... 
