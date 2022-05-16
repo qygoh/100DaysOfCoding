@@ -8,4 +8,6 @@ Cheers to an exicting 100 days ahead!!
 
 Date started: 16/05/2022
 
+[Day 1: Christmas Santa Generator](https://github.com/qygoh/100DaysOfCoding/tree/main/Day1)
+
 Date completed: To be confirmed... 
