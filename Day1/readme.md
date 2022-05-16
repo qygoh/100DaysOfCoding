@@ -15,7 +15,6 @@ Note:
 - Currently the working version assumes that within each group the individuals are buying lunches for each other
 - In reality would have wanted the code to give me unique directional pairings instead (to work on for future updates)
 
-Preview:
 https://user-images.githubusercontent.com/42586199/168628807-45edd8ba-92a8-4dfc-9769-10e9b513c8b4.mp4
 
 
