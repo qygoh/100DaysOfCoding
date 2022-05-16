@@ -1,1 +1,1 @@
-# Creating a Band Name Generator
+# Creating a Name Generator
