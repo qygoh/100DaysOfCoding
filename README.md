@@ -4,7 +4,7 @@ Starting my [100 days of Python Course](https://www.udemy.com/share/103IHM3@rzEv
 
 Hence the birth of this repo- it shall be a documentation for all the things that I will be creating for the next 100 days. 
 
-Cheers to an exciting 100 days ahead!! 
+Cheers to an exciting 100 days/weeks ahead!! 
 
 Date started: 16/05/2022
 
